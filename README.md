@@ -12,12 +12,14 @@ The let keyword behaves similarly, but with some extra features. When you declar
 <br><b>For example:</br></b>
 <table>
 <tr>
+<tb>
 var numArray = [];
 for (var i = 0; i < 3; i++) {
   numArray.push(i);
 }
 console.log(numArray);
 console.log(i);
+</tb>
 </tr>
 </table>
 Here the console will display the values [0, 1, 2] and 3.
