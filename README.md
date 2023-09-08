@@ -10,14 +10,14 @@ When you declare a variable with the var keyword, it is declared globally, or lo
 The let keyword behaves similarly, but with some extra features. When you declare a variable with the let keyword inside a block, statement, or expression, its scope is limited to that block, statement, or expression.
 
 <br><b>For example:</br></b>
-
+<table>
 var numArray = [];
 for (var i = 0; i < 3; i++) {
   numArray.push(i);
 }
 console.log(numArray);
 console.log(i);
-
+</table>
 Here the console will display the values [0, 1, 2] and 3.
 
 With the var keyword, i is declared globally. So when i++ is executed, it updates the global variable. This code is similar to the following:
