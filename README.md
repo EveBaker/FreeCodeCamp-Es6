@@ -1,6 +1,6 @@
 <br><b>Free CodeCamp Practice:<br></b>
 
-<b>Problem1:</b>
+<b>Problem 1:</b>
 Compare Scopes of the var and let Keywords
 
 If you are unfamiliar with let, check out this challenge about the difference between let and var.
@@ -72,4 +72,4 @@ Waiting: var should not exist in code.
 Waiting: The variable i declared in the if statement should equal the string block scope.
 Waiting: checkScope() should return the string function scope
 
-<b>Problem 2:</b>
+<br><b>Problem 2:</b></br>
