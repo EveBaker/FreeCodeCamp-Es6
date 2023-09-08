@@ -1,4 +1,4 @@
-<br><b>Free CodeCamp Practice:<br></b>
+<h3><br><b>Free CodeCamp Practice:<br></b></h3>
 
 <b>Problem 1:</b>
 Compare Scopes of the var and let Keywords
