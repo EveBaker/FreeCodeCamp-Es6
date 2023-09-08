@@ -9,7 +9,7 @@ When you declare a variable with the var keyword, it is declared globally, or lo
 
 The let keyword behaves similarly, but with some extra features. When you declare a variable with the let keyword inside a block, statement, or expression, its scope is limited to that block, statement, or expression.
 
-For example:
+<br><b>For example:</br></b>
 
 var numArray = [];
 for (var i = 0; i < 3; i++) {
