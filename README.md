@@ -79,9 +79,9 @@ If you are unfamiliar with let, check out this challenge about the difference be
 When you declare a variable with the var keyword, it is declared globally, or locally if declared inside a function.
 
 The let keyword behaves similarly, but with some extra features. When you declare a variable with the let keyword inside a block, statement, or expression, its scope is limited to that block, statement, or expression.
-```
-<br><b>For example:</br></b>
 
+### For example:
+```
 var numArray = [];
 for (var i = 0; i < 3; i++) {
   numArray.push(i);
