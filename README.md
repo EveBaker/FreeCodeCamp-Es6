@@ -1,6 +1,6 @@
-<h3><br><b>Free CodeCamp Practice:<br></b></h3>
+### Free CodeCamp Practice:
 
-<b>Problem 1:</b>
+### Problem 1:
 Compare Scopes of the var and let Keywords
 
 If you are unfamiliar with let, check out this challenge about the difference between let and var.
