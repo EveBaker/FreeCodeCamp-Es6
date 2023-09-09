@@ -74,10 +74,11 @@ Waiting: checkScope() should return the string function scope
 
 ### Questions
 <ul>
-<il>var should not exist in code.</il>
+<il>var should not exist in code.</li>
 <li>The variable i declared in the if statement should equal the string block scope.</li>
 <li>checkScope() should return the string function scope</li>
 </ul>
+
 ### Problem 2:
 <b>Compare Scopes of the var and let Keywords</b>
 If you are unfamiliar with let, check out this challenge about the difference between let and var.
