@@ -66,11 +66,6 @@ i is not defined because it was not declared in the global scope. It is only dec
 Fix the code so that i declared in the if statement is a separate variable than i declared in the first line of the function. Be certain not to use the var keyword anywhere in your code.
 
 This exercise is designed to illustrate the difference between how var and let keywords assign scope to the declared variable. When programming a function similar to the one used in this exercise, it is often better to use different variable names to avoid confusion.
-Tests
-
-Waiting: var should not exist in code.
-Waiting: The variable i declared in the if statement should equal the string block scope.
-Waiting: checkScope() should return the string function scope
 
 ### Questions
 <ul>
@@ -145,6 +140,13 @@ Fix the code so that i declared in the if statement is a separate variable than 
 
 This exercise is designed to illustrate the difference between how var and let keywords assign scope to the declared variable. When programming a function similar to the one used in this exercise, it is often better to use different variable names to avoid confusion.
 
+### Questions:
+<ul>
+  <li>You should not replace const keyword.</li>
+  <li><b>s</b> should be a constant variable (by using const).</li>
+  <li>You should not change the original array declaration.</li>
+  <li><b>s</b>should be equal to [2, 5, 7].
+</ul>
 ### Problem 3
 
 ### Problem 4
