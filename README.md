@@ -74,7 +74,7 @@ Waiting: checkScope() should return the string function scope
 
 ### Questions
 <ul>
-<il>var should not exist in code.</li>
+<li>var should not exist in code.</li>
 <li>The variable i declared in the if statement should equal the string block scope.</li>
 <li>checkScope() should return the string function scope</li>
 </ul>
