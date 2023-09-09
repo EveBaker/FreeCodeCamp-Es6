@@ -1,7 +1,7 @@
 function checkScope() {
-  var i = 'function scope';
+ let i = 'function scope'; //changed var to let
   if (true) {
-    i = 'block scope';
+    let i = 'block scope'; //added let
     console.log('Block scope i is: ', i);
   }
   console.log('Function scope i is: ', i);
