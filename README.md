@@ -72,6 +72,12 @@ Waiting: var should not exist in code.
 Waiting: The variable i declared in the if statement should equal the string block scope.
 Waiting: checkScope() should return the string function scope
 
+### Questions
+<ul>
+<il>var should not exist in code.</il>
+<li>The variable i declared in the if statement should equal the string block scope.</li>
+<li>checkScope() should return the string function scope</li>
+</ul>
 ### Problem 2:
 <b>Compare Scopes of the var and let Keywords</b>
 If you are unfamiliar with let, check out this challenge about the difference between let and var.
@@ -137,13 +143,6 @@ i is not defined because it was not declared in the global scope. It is only dec
 Fix the code so that i declared in the if statement is a separate variable than i declared in the first line of the function. Be certain not to use the var keyword anywhere in your code.
 
 This exercise is designed to illustrate the difference between how var and let keywords assign scope to the declared variable. When programming a function similar to the one used in this exercise, it is often better to use different variable names to avoid confusion.
-
-### Questions
-<ul>
-<li>var should not exist in code.</li>
-<li>The variable i declared in the if statement should equal the string block scope.</li>
-<li>checkScope() should return the string function scope</li>
-</ul>
 
 ### Problem 3
 
