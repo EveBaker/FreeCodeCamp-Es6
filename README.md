@@ -139,11 +139,11 @@ Fix the code so that i declared in the if statement is a separate variable than 
 This exercise is designed to illustrate the difference between how var and let keywords assign scope to the declared variable. When programming a function similar to the one used in this exercise, it is often better to use different variable names to avoid confusion.
 
 ### Questions
-<ol>
+<ul>
 <li>var should not exist in code.</li>
 <li>The variable i declared in the if statement should equal the string block scope.</li>
 <li>checkScope() should return the string function scope</li>
-</ol>
+</ul>
 
 ### Problem 3
 
