@@ -145,7 +145,7 @@ This exercise is designed to illustrate the difference between how var and let k
   <li>You should not replace const keyword.</li>
   <li><b>s</b> should be a constant variable (by using const).</li>
   <li>You should not change the original array declaration.</li>
-  <li><b>s</b>should be equal to [2, 5, 7].
+  <li><b>s</b> should be equal to [2, 5, 7].
 </ul>
 ### Problem 3
 
